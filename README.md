@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Caio Dantas
 
 - 🥇 Cursando Engenharia da Computação no Instituto Federal da Paraiba (IFPB).
-- 🔎 Estudando linguagens como Python, C, C++ e JavaScript.
-- 🌱 Conhecimentos sobre DataScience.
-- ✔ Estou sempre disposto a aprender novas tecnologias.
+- 🔎 Estudando linguagens como Python, C, C++ e Flutter.
+- 🌱 Conhecimentos sobre DataScience. 
+- ✔ Estou sempre disposto a aprender novas tecnologias. 
 
 <div align="center">
   <a href="https://beacons.ai/caiodantass">
