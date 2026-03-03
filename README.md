@@ -61,6 +61,12 @@ Flutter
 
 ---
 
+## 🐍 Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/caiodantass/caiodantass/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 📫 Contato
 
 <div> 
