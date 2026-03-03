@@ -80,10 +80,5 @@ Flutter
 
 ---
 
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/caiodantass/caiodantass/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ Se curtir meus projetos, não esquece de deixar uma estrela!
