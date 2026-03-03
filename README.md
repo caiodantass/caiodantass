@@ -60,6 +60,40 @@ Flutter
 
 ---
 
+## 🤝 Contribuições em Projetos Colaborativos
+
+### 🏥 Medical Scheduling System
+Primeiro Pull Request público no GitHub.
+Contribuições:
+- Correção visual da interface
+- Remoção de fundo da logo
+- Estilização da tela do médico
+
+🔗 https://github.com/ViniciusRodrigues10/medical-scheduling
+
+---
+
+### 📚 QuestBook
+Contribuição no frontend com atualizações estruturais e novos arquivos.
+
+🔗 https://github.com/Alisson-Brener/QuestBook
+
+---
+
+### 🧠 Projeto Sistemas
+Participação ativa com 7 commits em funcionalidades e melhorias do sistema.
+
+🔗 https://github.com/ViniciusRodrigues10/projeto-sistemas
+
+---
+
+### 📖 Estudo Dirigido
+7 commits contribuindo com melhorias e organização do projeto acadêmico.
+
+🔗 https://github.com/ViniciusRodrigues10/estudo-dirigido-c
+
+---
+
 ## 🐍 Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/caiodantass/caiodantass/output/github-contribution-grid-snake-dark.svg)
