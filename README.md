@@ -63,7 +63,6 @@ Flutter
 ## 🤝 Contribuições em Projetos Colaborativos
 
 ### 🏥 Medical Scheduling System
-Primeiro Pull Request público no GitHub.
 Contribuições:
 - Correção visual da interface
 - Remoção de fundo da logo
