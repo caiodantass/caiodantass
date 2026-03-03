@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Engenharia da Computação - IFPB <br>
-💻 Desenvolvedor | 🤖 Entusiasta de IA & Data Science | 📊 Problem Solver
+💻 Engenheiro de Software | 🤖 Entusiasta de IA & Data Science | 📊 Desenvolvedor Web
 </p>
 
 ---
@@ -26,7 +26,7 @@ Estou sempre em constante evolução, buscando aprender novas tecnologias e apro
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Linguagens
-Python • C • C++ • JavaScript
+Python • C • C++ • JavaScript • Java
 
 ### 🌐 Web
 HTML • CSS • React
@@ -42,9 +42,8 @@ Flutter
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/caiodantass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodantass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodantass&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiodantass&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodantass&layout=compact&theme=dracula"/>
 </div>
 
 ---
