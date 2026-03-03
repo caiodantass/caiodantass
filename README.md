@@ -69,8 +69,8 @@ Flutter
 ## 📫 Contato
 
 <div> 
-  <a href="mailto:caiomunizdantas@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1%20Caio%2C%20tudo%20bem%3F%0A%0AVim%20pelo%20seu%20GitHub%20e%20gostaria%20de%20falar%20sobre%3A%20">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caiomunizdantas@gmail.com&su=Contato%20via%20GitHub&body=Ol%C3%A1%20Caio%2C%20tudo%20bem%3F%0A%0AVim%20pelo%20seu%20GitHub%20e%20gostaria%20de%20falar%20sobre%3A%20" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
   <a href="https://instagram.com/caio_livio" target="_blank">
