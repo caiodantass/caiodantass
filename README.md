@@ -41,10 +41,11 @@ Flutter
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiodantass&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodantass&layout=compact&theme=dracula"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiodantass&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=caiodantass&theme=radical" />
+</p>
 
 ---
 
