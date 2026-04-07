@@ -34,9 +34,6 @@ HTML • CSS • React
 ### 📊 Data Science
 NumPy • Pandas • Scikit-Learn • Jupyter Notebook
 
-### 📱 Mobile
-Flutter
-
 ---
 
 ## 📈 Estatísticas do GitHub
