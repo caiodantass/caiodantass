@@ -61,13 +61,18 @@ Linguagens: Python | C | C++ | JavaScript (ES6+) | Java | SQL Frontend: React | 
 ## 📈 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caiodantass&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://streak-stats.demolab.com?user=caiodantass&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodantass&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=caiodantass&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/caiodantass/caiodantass/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodantass&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/caiodantass/caiodantass/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
